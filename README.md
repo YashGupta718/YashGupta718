@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yashmittal709.ym@gmail.com**
 
-- 📄 Know about my experiences [Resume](Resume)
+- 📄 Know about my experiences [Resume](https://yashgupta718.github.io/me/resume_YashGupta.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
