@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on my **Data Structures & CP**
 
-- 🌱 I’m currently learning **Backend**
-
-- 👯 I’m looking to collaborate on **MERN & Flutter Projects**
+- 👯 I’m looking to collaborate on **Web dev Projects**
 
 - 💬 Ask me about **React ;)**
 
